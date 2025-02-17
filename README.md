@@ -67,7 +67,7 @@ qsub -I -l select=1:ncpus=16 -l walltime=1:00:00
 
 b. move to the bin directory 
 ```
-cd hpc-intro-workshop/NPB3.4.3/NPB3.4-OMP
+cd NPB3.4.3/NPB3.4-OMP
 ```
 
 c. run the benchmark
